@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login dengan menggunakan akun yang bermasalah</description>
+   <name>L003 - Login dengan menggunakan akun bermasalah</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>41248f6b-3d93-4c7c-a23a-6cef1a3124ce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb94e186-db09-47f4-9c6d-6bc20bb21bbe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'problem_user'</defaultValue>
+      <description></description>
+      <id>eb94e186-db09-47f4-9c6d-6bc20bb21bbe</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

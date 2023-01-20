@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login menggunakan akun yang memiliki masalah glicth performa</description>
+   <name>L004 - Login dengan menggunakan akun performance glitch</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>a06eacc0-529d-4f5a-bb0d-7963b9047493</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e0ae1b5-c31b-424a-9653-4bc75b0ac1f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'performance_glitch_user'</defaultValue>
+      <description></description>
+      <id>7e0ae1b5-c31b-424a-9653-4bc75b0ac1f6</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
