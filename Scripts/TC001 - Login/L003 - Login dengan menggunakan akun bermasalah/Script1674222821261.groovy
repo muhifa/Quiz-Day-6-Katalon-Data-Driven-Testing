@@ -28,7 +28,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_standard_us
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Password for all userssecret_sauce'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9'), 
-    'qcu24s4901FyWDTwXGr6XA==')
+    GlobalVariable.Password)
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
 
