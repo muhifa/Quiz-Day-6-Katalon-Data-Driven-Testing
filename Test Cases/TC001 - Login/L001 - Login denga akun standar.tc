@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login menggunakan akun standar user</description>
+   <name>L001 - Login denga akun standar</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>c7283ccd-4630-4b6d-81e8-246de41e8bd7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27629f88-a359-44cb-905f-3bb1dcd9ecb4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>27629f88-a359-44cb-905f-3bb1dcd9ecb4</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

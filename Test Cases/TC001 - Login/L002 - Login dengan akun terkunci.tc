@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login dengan menggunakan akun yang terkunci</description>
+   <name>L002 - Login dengan akun terkunci</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>33d4405b-f96c-4f10-a7f2-54f3e4d8d1d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d851694e-d3b3-4376-a74d-dc0f977b3bb5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'locked_out_user'</defaultValue>
+      <description></description>
+      <id>d851694e-d3b3-4376-a74d-dc0f977b3bb5</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
